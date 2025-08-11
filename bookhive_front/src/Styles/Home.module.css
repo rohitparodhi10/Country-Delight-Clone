@@ -1,0 +1,633 @@
+.MacBookAir1_MacBookAir1 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(241, 247, 246, 1.00);
+}
+
+.MacBookAir1_MacBookAir1 .hero img{
+	position: absolute;
+	top: 120px;
+	left: 50%; 
+	transform: translateX(-50%); 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 1182px;
+	height: 432px;
+	border-radius: 20px;
+}
+
+.MacBookAir1_MacBookAir1 .ExploreCategories {
+  position: absolute;
+  left: 125.09px;
+  top: 592.46px;
+  width: 290.41px;
+  height: 39.55px;
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 1);
+  font-family:sans-serif;
+  font-size: 14.86px;
+  font-weight: 700;
+  line-height: 31.64px;
+}
+
+.MacBookAir1_MacBookAir1 .Ellipse1 {
+  position: absolute;
+  width: 120px;
+  height: 90px;
+  background: #fff;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.MacBookAir1_MacBookAir1 .Ellipse1:hover {
+  border: 2px solid green;
+}
+
+
+.MacBookAir1_MacBookAir1 .tempImage5YJpnc1 {
+  position: absolute;
+  width: 120px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  overflow: hidden;
+  z-index: 2;
+  
+}
+
+.MacBookAir1_MacBookAir1 .CoconutWater {
+  position: absolute;
+  width: 150px;
+  height: 32.77px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13.86px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+}
+
+
+.MacBookAir1_MacBookAir1 .Group8 {
+	position: absolute;
+	left: 0px;
+	top: 1234.52px;
+	width: 1400px;
+	height: 652.14px;
+}
+
+.MacBookAir1_MacBookAir1 .Group8 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	overflow: hidden;
+	top: 0px;
+	width: 1420px;
+	height: 452.14px;
+	background: linear-gradient(90deg, rgba(241, 242, 219, 1.00) 0%, rgba(226, 244, 210, 1.00) 100%);
+}
+
+.MacBookAir1_MacBookAir1 .Group8 .NewLaunches {
+	position: absolute;
+	left: 138.93px;
+	top: 27.21px;
+	width: 201.14px;
+	height: 46.86px;
+	color: rgba(0, 0, 0, 1);
+	font-family:sans-serif;
+	font-size: 15.12px;
+	font-weight: 700;
+	line-height: 32.82px;
+}
+
+.MacBookAir1_MacBookAir1 .slideContainer {
+  position: absolute;
+  top: 0;
+  width: 200px;
+  height: 320px;
+  transition: transform 0.5s ease-in-out;
+}
+
+.MacBookAir1_MacBookAir1 .Group8 .Rectangle3 {
+	background-color: #f3f3f3;
+  border-radius: 20px;
+  width: 200px;
+  height: 260px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 110px;
+  left: 20px;
+  overflow: hidden;
+}
+
+.MacBookAir1_MacBookAir1 .Group8 .titleofproduct {
+	position: absolute;
+  top: 270px;
+  left: 35px;
+  font-size: 14px;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.MacBookAir1_MacBookAir1 .Group8 .gm {
+	position: absolute;
+  top: 290px;
+  left: 35px;
+  font-size: 14px;
+  width: 100%;
+  color: black;
+}
+
+.MacBookAir1_MacBookAir1 .Group8 .Price {
+	position: absolute;
+  top: 340px;
+  left: 35px;
+  font-size: 14px;
+  color: black;
+  font-weight: bold;
+  width: 100%;
+}
+
+.MacBookAir1_MacBookAir1 .tempImage5YJpnc2 {
+	position: absolute;
+  top: 130px;
+  left: 60px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.MacBookAir1_MacBookAir1 .FreshFruitsandVegetables {
+	position: absolute;
+	left: 97.17999999999999px;
+	top: 1856.59px;
+	width: 376.28999999999996px;
+	height: 28.249999999999996px;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 27.119999999999997px;
+	font-weight: 700;
+	line-height: 32.821363048553465px;
+}
+
+.MacBookAir1_MacBookAir1 .Group9 {
+	position: absolute;
+	left: 97.17999999999999px;
+	top: 1934.5599999999997px;
+	width: 1246.3899999999999px;
+	height: 600.03px;
+}
+
+.MacBookAir1_MacBookAir1 .Group9 .Rectangle4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1246.3899999999999px;
+	height: 600.03px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 22.599999999999998px;
+}
+
+.MacBookAir1_MacBookAir1 .Group9 .ProductName {
+	position: absolute;
+	left: 706.2499999999999px;
+	top: 140.11999999999998px;
+	width: 418.09999999999997px;
+	height: 37.29px;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 27.119999999999997px;
+	font-weight: 700;
+	line-height: 32.821363048553465px;
+}
+
+.MacBookAir1_MacBookAir1 .Group9 .Description {
+	position: absolute;
+	left: 706.2499999999999px;
+	top: 229.39px;
+	width: 472.34px;
+	height: 100.57px;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 27.119999999999997px;
+	font-weight: 700;
+	line-height: 32.821363048553465px;
+}
+
+.MacBookAir1_MacBookAir1 .Group9 .tempImage5YJpnc3 {
+	position: absolute;
+	left: 79.1px;
+	top: 80.22999999999999px;
+	width: 439.56999999999994px;
+	height: 439.56999999999994px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.MacBookAir1_MacBookAir1 .MilkProductsCountrySpecials {
+	position: absolute;
+	left: 97.17999999999999px;
+	top: 2585.4399999999996px;
+	width: 472.34px;
+	height: 37.29px;
+	color: rgba(0, 0, 0, 1.00);
+	font-family:sans-serif;
+	font-size: 17.119999999999997px;
+	font-weight: 700;
+	line-height: 32.821363048553465px;
+}
+
+.MacBookAir1_MacBookAir1 .Group10 {
+	position: absolute;
+	left: 97.17999999999999px;
+	top: 2643.58px;
+	width: 1246.3899999999999px;
+	height: 600.03px;
+	border-radius: 22.599999999999998px;
+}
+
+.MacBookAir1_MacBookAir1 .Group10 .Rectangle5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1246.3899999999999px;
+	height: 600.03px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 22.599999999999998px;
+}
+
+.MacBookAir1_MacBookAir1 .Group10 .ProductName_1 {
+	position: absolute;
+	left: 706.2499999999999px;
+	top: 129.95px;
+	width: 308.48999999999995px;
+	height: 72.32px;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 27.119999999999997px;
+	font-weight: 700;
+	line-height: 32.821363048553465px;
+}
+
+.MacBookAir1_MacBookAir1 .Group10 .Description_1 {
+	position: absolute;
+	left: 706.2499999999999px;
+	top: 214.7px;
+	width: 413.57px;
+	height: 96.66999999999999px;
+	color: rgb(132, 133, 133);
+	font-family:sans-serif;
+	font-size: 21.119999999999997px;
+	line-height: 32.821363048553465px;
+}
+
+.MacBookAir1_MacBookAir1 .tempImage5YJpnc4 {
+	position: absolute;
+	left: 176.27999999999997px;
+	top: 2753.81px;
+	width: 439.56999999999994px;
+	height: 439.56999999999994px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.MacBookAir1_MacBookAir1 .Howwemakeitforyou {
+	position: absolute;
+	left: 97.17999999999999px;
+	top: 3338.0199999999995px;
+	width: 307.35999999999996px;
+	height: 32.769999999999996px;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 27.119999999999997px;
+	font-weight: 600;
+	line-height: 32.821363048553465px;
+}
+
+.MacBookAir1_MacBookAir1 .Group11 {
+	position: absolute;
+	left: 87.00999999999999px;
+	top: 3405.8199999999997px;
+	width: 1236.2199999999998px;
+	height: 831.68px;
+}
+
+.MacBookAir1_MacBookAir1 .Group11 .Rectangle6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1236.2199999999998px;
+	height: 831.68px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 22.599999999999998px;
+}
+
+.MacBookAir1_MacBookAir1 .Group11 .Line1 {
+	position: absolute;
+	left: 741.28px;
+	top: 23.729999999999997px;
+	width: 0px;
+	height: 787.6099999999999px;
+}
+
+.MacBookAir1_MacBookAir1 .Group11 .tempImageVbt7UN1 {
+	position: absolute;
+	left: 14.689999999999998px;
+	top: 375.15999999999997px;
+	width: 82.49px;
+	height: 85.88px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.MacBookAir1_MacBookAir1 .Group11 .WesourceMilkGroceriesFruitsYogurtsEggsVegetablesandallotheressentialsfreshfromthebestfarmsinIndiaAfterqualitytestingatfarmsandtheninourlabswedeliverallyourdailyneedswithoutpreservativesormixingOrderyourfreshmilkandgroceriesandhavethemdelivereddailyItseasyandconvenientsavingyoutimeandeffortEnjoyfreshessentialsrightatyourdoorstepeverydaySetupasubscriptionplanformilkandgroceriestosuityourdailyneedsChoosehowoftenyouwantyouritemsdeliveredandenjoytheconvenienceofregularhasslefreedeliveriesrighttoyourdoorstepActivatevacationmodetopausemilkandgrocerydeliverieswhenyoureawayThiswayyoucanskipdeliveriesuntilyourebackhomeandreadytoreceivethemagainTakeadvantageofexcitingofferstosavebigonmilkgroceriesfruitsvegetablesandotheressentialsDontmissoutonourspecialdiscountsthathelpstretchyourbudgetfurther {
+	position: absolute;
+	left: 114.13px;
+	top: 106.21999999999998px;
+	width: 612.4599999999999px;
+	height: 681.39px;
+	display: flex;
+	align-items: center;
+	color: rgba(123, 134, 133, 1.00);
+	font-family: Inter;
+	font-size: 24.86px;
+	font-weight: 500;
+	line-height: 30.086249999999996px;
+}
+
+.MacBookAir1_MacBookAir1 .Group11 .ModifyandOrderYourMilkgroceriestill12midnightfornextdayearlymorning7amdelivery {
+	position: absolute;
+	left: 114.13px;
+	top: 21.47px;
+	width: 612.4599999999999px;
+	height: 71.19px;
+	display: flex;
+	align-items: center;
+	color: rgba(34, 51, 50, 1.00);
+	font-family: Inter;
+	font-size: 22.599999999999998px;
+	font-weight: 700;
+	line-height: 27.351134796142574px;
+}
+
+.MacBookAir1_MacBookAir1 .FarmtoHomeEveryDayOnlineMilkGroceriesDelivery {
+	position: absolute;
+	left: 87.00999999999999px;
+	top: 4271.4px;
+	width: 701.7299999999999px;
+	height: 27.119999999999997px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 24.86px;
+	font-weight: 700;
+	line-height: 30.086249999999996px;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 {
+	position: absolute;
+	left: 87.00999999999999px;
+	top: 4375.36px;
+	width: 1236.2199999999998px;
+	height: 414.71px;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .Ellipse3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 326.57px;
+	height: 326.57px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 50%;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .Ellipse4 {
+	position: absolute;
+	left: 454.25999999999993px;
+	top: 0px;
+	width: 326.57px;
+	height: 326.57px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 50%;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .Ellipse5 {
+	position: absolute;
+	left: 909.6499999999999px;
+	top: 0px;
+	width: 326.57px;
+	height: 326.57px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 50%;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .tempImageN1uU5r1 {
+	position: absolute;
+	left: 56.49999999999999px;
+	top: 152.54999999999998px;
+	width: 214.7px;
+	height: 214.7px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .tempImageTnQ41I1 {
+	position: absolute;
+	left: 510.75999999999993px;
+	top: 152.54999999999998px;
+	width: 214.7px;
+	height: 214.7px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .tempImagesr52Sn1 {
+	position: absolute;
+	left: 966.1499999999999px;
+	top: 163.85px;
+	width: 214.7px;
+	height: 214.7px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .Milkcollectionfromhealthycattle {
+	position: absolute;
+	left: 12.43px;
+	top: 387.59px;
+	width: 301.71px;
+	height: 27.119999999999997px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 18.08px;
+	font-weight: 500;
+	line-height: 21.880908699035643px;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .Qualitytestedfor100commonadulterants {
+	position: absolute;
+	left: 424.87999999999994px;
+	top: 387.59px;
+	width: 386.46px;
+	height: 27.119999999999997px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 18.08px;
+	font-weight: 500;
+	line-height: 21.880908699035643px;
+}
+
+.MacBookAir1_MacBookAir1 .Group12 .Homedeliveryby7am {
+	position: absolute;
+	left: 972.93px;
+	top: 380.80999999999995px;
+	width: 201.14px;
+	height: 27.119999999999997px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Inter;
+	font-size: 18.08px;
+	font-weight: 500;
+	line-height: 21.880908699035643px;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 80px;
+	background-color: white;
+	z-index: 999;
+
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: white;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group2 {
+	position: absolute;
+	left: 370px;
+	top: 28px; 
+	height: 24px;
+	display: flex;
+	gap: 50px;
+	align-items: center;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group2 .Products {
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 500;
+	line-height: 20px;
+	color: rgb(11, 11, 11);
+	position: relative;
+	top: 0;
+	text-decoration: none;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group2 .Reviews {
+	font-size: 15px;
+	font-weight: 500;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 20px;
+	color: rgba(0, 0, 0, 1.00);
+	position: relative;
+	top: 0;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group2 .MilkTestingKit {
+	font-size: 15px;
+	font-weight: 500;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 20px;
+	color: rgba(0, 0, 0, 1.00);
+	position: relative;
+	top: 0;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group2 .Products:hover,
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group2 .Reviews:hover,
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group2 .MilkTestingKit:hover{
+	color: rgb(7, 153, 7);
+	cursor: pointer;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .tempImageuGqPcm1 {
+	position: absolute;
+	left: 150px;
+	top: 10px;
+	width: 40px;
+	height: 50px;
+	object-fit: cover;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .DeliverIn {
+	position: absolute;
+	left: 208px;
+	top: 15px;
+	font-family: "Roboto", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 9;
+	color: rgba(169,176,174,255);
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group7 {
+	position: absolute;
+	left: 208px;
+	top: 40px;
+	width: auto;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .Group7 .Pune {
+	font-family: "Roboto", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 20px;
+	color: rgba(0, 0, 0, 1.00);
+}
+
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .arrow_drop_down {
+	position: absolute;
+	left: 180.59px;
+	top: 81.36px;
+	width: 51.98px;
+	height: 39.55px;
+}
+
+.MacBookAir1_MacBookAir1 .Group1 .Frame1 .arrow_drop_down .icon {
+	position: absolute;
+	left: 15.16px;
+	top: 16.48px;
+	width: 41.67%;
+	height: 20.83%;
+}
+
+

@@ -1,0 +1,120 @@
+.MacBookAir2_MacBookAir2 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(241,247,246,1.00);
+}
+.MacBookAir2_MacBookAir2 .Rectangle7 {
+	position: absolute;
+	left: 181.92999999999998px;
+	top: 224.86999999999998px;
+	width: 473.46999999999997px;
+	height: 185.32px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 22.599999999999998px;
+}
+.MacBookAir2_MacBookAir2 .MilkCoconutWater {
+	position: absolute;
+	left: 386.46px;
+	top: 244.07999999999998px;
+	width: 228.26px;
+	height: 33.9px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21.47px;
+	font-weight: 400;
+	line-height: 25.98357934951782px;
+}
+.MacBookAir2_MacBookAir2 .BuyMilkOnlineCountryDelightpromisespurequalityonlinemilkdeliverydailyatyourdoorstep {
+	position: absolute;
+	left: 386.46px;
+	top: 277.97999999999996px;
+	width: 219.21999999999997px;
+	height: 80.22999999999999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 13.559999999999999px;
+	font-weight: 400;
+	line-height: 16.410681524276733px;
+}
+.MacBookAir2_MacBookAir2 .Ellipse6 {
+	position: absolute;
+	left: 203.39999999999998px;
+	top: 256.51px;
+	width: 135.6px;
+	height: 101.69999999999999px;
+	background: linear-gradient(180deg, rgba(255, 234, 167, 1.00) 0.0%, rgba(255, 241, 199, 1.00) 50.0%, rgba(255, 255, 255, 1.00) 100.0%);
+	border-radius: 50%;
+}
+.MacBookAir2_MacBookAir2 .tempImagenAailM1 {
+	position: absolute;
+	left: 203.39999999999998px;
+	top: 257.64px;
+	width: 135.6px;
+	height: 101.69999999999999px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+.helloButton {
+	position: absolute;
+	width: 130px;
+	height: 45px;
+	background-color: #00b86c;
+	color: white;
+	border: none;
+	border-radius:10px;
+	cursor: pointer;
+	font-family: sans-serif;
+	font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+/* Optional: Hover effect */
+.helloButton:hover {
+	background-color: green;
+}
+
+.MacBookAir2_MacBookAir2 .Exploreourrange {
+	position: absolute;
+	left: 500.01px;
+    text-align: center;
+	top: 2559.5099999999998px;
+	width: 442.38px;
+	height: 18.08px;
+	color: rgba(0,0,0,1.00);
+	font-family: sans-serif;
+	font-size: 38.08px;
+	font-weight: 600;
+	line-height: 18.08px;
+}
+.MacBookAir2_MacBookAir2 .ChoosefromourwiderangeofstaplesdairyproductsandfreshharvestGet100naturalessentialshomedeliveredeveryday {
+	position: absolute;
+	left: 229.83999999999997px;
+	top: 2619.5699999999997px;
+	width: 1209.1px;
+	height: 18.08px;
+	color: rgb(122, 121, 121);
+	font-family: Roboto;
+	font-size: 16.08px;
+	font-weight: 500;
+	line-height: 18.08px;
+}
+.MacBookAir2_MacBookAir2 .tempImageHKqTM81 {
+	position: absolute;
+	left: 52.729999999999997px;
+	top: 2659.0299999999997px;
+	width: 1320.86px;
+	height: 402.28px;
+	object-fit: cover;
+	overflow: hidden;
+}
